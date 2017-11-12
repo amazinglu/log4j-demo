@@ -1,2 +1,5 @@
 output the log record to console and file
 http://www.mkyong.com/logging/log4j-log4j-properties-examples/
+
+master: simple implement of logger function
+submit_version: implement of logger function with customized bainary search class
